@@ -53,8 +53,10 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add later)
-- Email: (add later)
+- ## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanisha%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanisha-sharma19)
+- Email: (sharmatanisha94724@gmail.com)
 
 ---
 
