@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanishasharma29/tanishasharma29/main/github.png" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Tanisha Sharma</h1>
 <h3 align="center">Java Full Stack + AI Developer</h3>
 
