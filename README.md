@@ -1,37 +1,36 @@
 <h1 align="center">Hi 👋, I'm Tanisha Sharma</h1>
-<h3 align="center">Java Full Stack + AI Developer 🚀</h3>
+<h3 align="center">Java Full Stack + AI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Enthusiast;DSA+Learner&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real+Projects;Full+Stack+Developer;AI+Enthusiast;DSA+Learner&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
+- 💻 Java Full Stack + AI Developer  
 - 🎓 B.Tech CSE Student  
-- 💻 Learning Full Stack + AI Development  
-- 🧠 Solving DSA problems daily    
+- 🎯 Goal: FAANG-level Software Engineer  
+- 🚀 Building real-world projects  
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=spring)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,mongodb,mysql,git" />
+</p>
 
---- 
+---
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tanishasharma29&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishasharma29&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishasharma29&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishasharma29&theme=tokyonight" />
+</p>
 
 ---
 
@@ -42,7 +41,18 @@
 
 ---
 
+## 🔥 Current Focus
+- Advanced DSA  
+- System Design  
+- AI Integration  
+
+---
+
 ## 📫 Connect With Me
 
 - LinkedIn: (add later)
 - Email: (add later)
+
+---
+
+⭐ Code. Learn. Build. Repeat.
